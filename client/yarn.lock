@@ -645,6 +645,11 @@ supports-preserve-symlinks-flag@^1.0.0:
   resolved "https://registry.yarnpkg.com/supports-preserve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz#6eda4bd344a3c94aea376d4cc31bc77311039e09"
   integrity sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==
 
+svelte-modals@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/svelte-modals/-/svelte-modals-1.2.0.tgz#8b639106bf2b17856c3c987afe2781e150ea3527"
+  integrity sha512-t2aRTu42olRtXsiIvL/RXImy0BiaSWqKCGXIkN9RL7shzvkPXC4rxfbvi1Y3qS/4XeJ6Av1lLxQty/pxNGXg4A==
+
 svelte@^3.0.0:
   version "3.52.0"
   resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.52.0.tgz#08259eff20904c63882b66a5d409a55e8c6743b8"
