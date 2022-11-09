@@ -156,5 +156,5 @@ func SetupAndListen() {
 	router.Put("/goly", updateGoly)
 	router.Delete("/goly/:id", deleteGoly)
 
-	router.Listen(":8080")
+	router.Listen(":8000")
 }
