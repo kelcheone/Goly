@@ -2,7 +2,8 @@
 
 ### Spinnup the postgres Db
 
-```Docker
+```bash
+cd app
 docker compose up -d
 ```
 
