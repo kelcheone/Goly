@@ -59,7 +59,12 @@
 {/if}
 <Modals>
   <!-- svelte-ignore a11y-click-events-have-key-events -->
-  <div slot="backdrop" class="backdrop" on:click={closeModal} />
+  <div
+    slot="backdrop"
+    class="backdrop"
+    on:click={closeModal}
+    on:keydown={console.log("Hi")}
+  />
 </Modals>
 
 <style>
